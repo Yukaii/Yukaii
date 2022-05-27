@@ -1,4 +1,6 @@
-Hello! My name is Yukai, which means "happiness" in Japanese(It's a Chinese name though). 
+# Hi! I'm Yukai Huang
+
+Hi, my name is Yukai, which means "happiness" in Japanese(It's a Chinese name though). 
 
 I'm a developer who loves to build projects around productivity or just for fun.
 
