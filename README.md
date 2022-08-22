@@ -12,7 +12,7 @@ I'm a developer who loves to build projects around productivity or just for fun.
 
 The following list contains the projects I built in recent years. I will update them occasionally.
 
-Some earlier projects can be found on [my GitHub](https://github.com/Yukaii?tab=repositories). I track WIP projects and ideas with this [GitHub Project Board](https://github.com/users/Yukaii/projects/3/views/3) publicly.
+Some earlier projects can be found on [my GitHub](https://github.com/Yukaii?tab=repositories). I track WIP projects and ideas with this [GitHub Project Board](https://github.com/users/Yukaii/projects/3/views/3) publicly. I also write userscript for browser sometimes, I'll put theme on [Gist](https://gist.github.com/Yukaii).
 
 You can also find me on [Twitch](https://www.twitch.tv/yukaii_h). I do live coding sessions sometimes.
 
