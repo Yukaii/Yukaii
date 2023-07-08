@@ -18,8 +18,31 @@ You can also find me on [Twitch](https://www.twitch.tv/yukaii_h). I do live codi
 
 ## Projects I created
 
+2023
+
+- [cpami-captcha-recognizer](https://github.com/Yukaii/cpami-captcha-recognizer) - _May 2023_
+	- A TypeScript project with deno runtime. Test the AI capability to implement the easiest type of OCR.
+	- Also provide a GreaseMonkey UserScript that can pre-fill captcha for you.
+- [wezl.fish](https://github.com/Yukaii/wezl.fish) - _April 2023_
+	- A [WezTerm](https://wezfurlong.org/wezterm/) command line utility that can easily create customized/predefined terminal layout with minimalist syntax.
+	- Mostly co-authored with GPT-4. It's a experimental project to try creating such project completely with AI.
+- [chatgpt-tui](https://github.com/Yukaii/chatgpt-tui) - _Mar 2023_
+	- A TUI chatgpt app written in Go with bubbletea TUI library.
+- [Tab Scroll synchronizer](https://github.com/Yukaii/tab-scroll-synchronizer) - _Mar 2023_
+	- A chrome extension that synchronize scrolling progress across tabs. Useful when using Google Translation or other translation side-by-side with original content.
+- [zuzugo](https://github.com/Yukaii/zuzugo) - _Feb 2023_
+	- A self-hosted rental house notification system. Support sending notification via Line message/Slack channel messages.
+	- Use [inngest](https://www.inngest.com/) to implementing queue and background jobs.
+- [Blast Launcher](https://github.com/BlastLauncher/blast) - _Jan 2023_
+	- The Raycast launcher hugely inspired project. It takes the idea of a custom Node.js React runtime that can consume Raycast extensions with compatible API. The goal is to built a universal cross platform Launcher that can run existing Raycast extensions.
+
 ### 2022
 
+- [Curator.bio Raycast Extension](https://www.raycast.com/Yukai/curator-bio) - _Nov 2022_
+- [Shortcut Raycast Extension](https://www.raycast.com/Yukai/shortcut) - _July 2022_
+- [Bitfinex Margin Funding Raycast Extension](https://www.raycast.com/Yukai/bitfinex) - _July 2022_
+- [HackMD Raycast Extension](https://www.raycast.com/Yukai/hackmd) - _July 2022_
+- [OBS Control Raycast Extension](https://www.raycast.com/Yukai/obs-control) - _June 2022_
 - [quiver-markdown-exporter](https://github.com/Yukaii/quiver-markdown-exporter) - _May 2022_
 	- A Quiver note app markdown exporter to Obsidian compatible markdown.
 - [messenger-JSON-viewer](https://github.com/Yukaii/messenger-JSON-viewer) - _April 2022_
@@ -43,10 +66,18 @@ You can also find me on [Twitch](https://www.twitch.tv/yukaii_h). I do live codi
 	- A browser extension for lookup Japanese to Chinese dictionary quickly. It was written in vanilla JS back in 2020. I rewrote it in ReactJS in September 2021.
 ### 2019
 
-- [vscode-ptt](https://github.com/Yukaii/vscode-ptt) - _Mar 2019_
+- [vscode-ptt](https://github.com/Yukaii/vscode-ptt) - _March 2019_
 	- A VS Code extension that brings Taiwan's largest BBS forum into VS Code's sidebar.
 
 ## Projects that I contributed to
+
+2023
+
+- [CircleCI Raycast Extension](https://www.raycast.com/qeude/circle-ci) - _Mar 2023_
+	- Fixed a small unexpected error bug
+- [Kaomoji Raycast Extension](https://www.raycast.com/yalishanda/kaomoji-search) - _Jan 2023_
+	- Made it to support grid layout, just like what Raycast builtin emoji picker looks like.
+- [RSSHub 591 Rule](https://docs.rsshub.app/other.html#_591-zu-wu-wang) - _Jan 2023_
 
 ### 2022
 
