@@ -16,6 +16,8 @@ Some earlier projects can be found on [my GitHub](https://github.com/Yukaii?tab=
 
 You can also find me on [Twitch](https://www.twitch.tv/yukaii_h). I do live coding sessions sometimes.
 
+<!-- PROJECTS -->
+
 ## Projects I created
 
 2023
@@ -93,3 +95,5 @@ You can also find me on [Twitch](https://www.twitch.tv/yukaii_h). I do live codi
 
 - [Disfactory](https://disfactory.tw) - Starting from _Oct 2019_
 	- An illegal factory reporting system. The backend server is built with Django, and the frontend is built with Vue.js.
+
+<!-- PROJECTS -->
