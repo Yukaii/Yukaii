@@ -20,7 +20,7 @@ You can also find me on [Twitch](https://www.twitch.tv/yukaii_h). I do live codi
 
 ## Projects I created
 
-2023
+### 2023
 
 - [cpami-captcha-recognizer](https://github.com/Yukaii/cpami-captcha-recognizer) - _May 2023_
 	- A TypeScript project with deno runtime. Test the AI capability to implement the easiest type of OCR.
@@ -73,7 +73,7 @@ You can also find me on [Twitch](https://www.twitch.tv/yukaii_h). I do live codi
 
 ## Projects that I contributed to
 
-2023
+### 2023
 
 - [CircleCI Raycast Extension](https://www.raycast.com/qeude/circle-ci) - _Mar 2023_
 	- Fixed a small unexpected error bug
