@@ -6,7 +6,7 @@ https://user-images.githubusercontent.com/4230968/177676838-3a6ba8e4-53c2-40b5-a
 
 # Hi! I'm Yukai Huang
 
-Hi, my name is Yukai, which means "happiness" in Japanese(It's a Chinese name though). 
+Hi, my name is Yukai, which means "happiness" in Japanese(It's a Chinese name though).
 
 I'm a developer who loves to build projects around productivity or just for fun.
 
@@ -20,8 +20,51 @@ You can also find me on [Twitch](https://www.twitch.tv/yukaii_h). I do live codi
 
 ## Projects I created
 
+### 2025
+
+- [gakuon](https://github.com/Yukaii/gakuon) - _Jan 2025_
+  - An AI audio/content generation services for your existing Anki Deck.
+- [wrap-calculator.kak](https://github.com/Yukaii/wrap-calculator.kak) - _Jan 2025_
+  - A soft-wrap jumping plugin for kakoune editor.
+  - I was dealy missing gK/gJ in vim.
+- [amdex](https://github.com/Yukaii/amdex) - _Jan 2025_
+  - amdex stands for "AMD extraction". Which restore AMD-style JavaScript bundled to modules.
+- [bookmarks.kak](https://github.com/Yukaii/bookmarks.kak) - _Jan 2025_
+  - Another bookmark plugin for kakoune editor. You can map keys to saved positions (line:cursor:your_comments) and quickly jump to them.
+  - I was deadly missing marks features in vim
+
+### 2024
+
+- [tsm - Yet another Tmux session manager](https://github.com/Yukaii/tsm) - _Nov 2024_
+  - The main difference of tsm with other similar tools is it create tmux sessions with popup and link with *parent* session(Actually that's just name match things)
+  - Just didn't have proper time to create a README for it :joy:
+- [Film Scheduler](https://github.com/Yukaii/film-scheduler) - _Oct 2024_
+  - A movie scheduling tool for arranging movies (Currently support Golden Horse Festival in Taiwan)
+- [barbarcode](https://github.com/Yukaii/barbarcode) - _Aug 2024_
+  - A PWA based mobile barcode scanner and accompany CLI tool for emulate key sequences
+- [LiftLedger](https://github.com/Yukaii/LiftLedger) - _July 2024_
+  - A tree-sitter grammar for a experimental text-based fitness tracking tool
+- [hx-utils](https://github.com/Yukaii/hx-utils) - _Jun 2024_
+  - A helix editor helper that integrates file explorer and other fzf tools
+  - Works on both tmux and wezterm
+- [daily-oops-gemini](https://github.com/Yukaii/daily-oops-gemini) - _Jun 2024_
+  - My blog mirrored in Gemini protocol, and in text-based HTML version.
+- [chami-match](https://github.com/Yukaii/chami-match) - _May 2024_
+  - A HSV color recognition game that helps you develop "absolute color" eye
+- [ssh-config.kak](https://github.com/Yukaii/ssh-config.kak) - _April 2024_
+  - ssh config syntax highlight for kakoune editor
+- [gitlinker.cr](https://github.com/Yukaii/gitlinker.cr) - _April 2024_
+  - A platform agnostic CLI tool to generate GitHub/GitLab/SVC systems permalink URL
+- [tailportal](https://github.com/Yukaii/tailportal) - _April 2024_
+  - An CLI to Quickly create tailscale exit node on numbers of VPS with pulumi SDK
+  - Your VPN on-demand.
+
 ### 2023
 
+- [vimify-hackernews](https://github.com/Yukaii/vimify-hackernews) - _Aug 2023_
+  - A browser extension to let you navigate HackerNews with vim-inspired keybindings
+- [coscup-session-openai](https://github.com/Yukaii/coscup-session-openai) - _Aug 2023_
+  - COSCUP session RAG (mostly take inspires from supabase tutorial)
 - [cpami-captcha-recognizer](https://github.com/Yukaii/cpami-captcha-recognizer) - _May 2023_
 	- A TypeScript project with deno runtime. Test the AI capability to implement the easiest type of OCR.
 	- Also provide a GreaseMonkey UserScript that can pre-fill captcha for you.
@@ -48,7 +91,7 @@ You can also find me on [Twitch](https://www.twitch.tv/yukaii_h). I do live codi
 - [quiver-markdown-exporter](https://github.com/Yukaii/quiver-markdown-exporter) - _May 2022_
 	- A Quiver note app markdown exporter to Obsidian compatible markdown.
 - [messenger-JSON-viewer](https://github.com/Yukaii/messenger-JSON-viewer) - _April 2022_
-	- An offline-first PWA for browsing Facebook Messenger exported JSON messages. 
+	- An offline-first PWA for browsing Facebook Messenger exported JSON messages.
 - [Eagle Raycast Extension](https://www.raycast.com/Yukai/eagle) - _April 2022_
 - [Heroku Raycast Extension](https://www.raycast.com/Yukai/heroku) - _April 2022_
 - [Debank Raycast Extension](https://www.raycast.com/Yukai/debank) - _Jan 2022_
